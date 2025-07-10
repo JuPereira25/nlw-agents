@@ -1,155 +1,26 @@
-<<<<<<< HEAD
-# HTML
-- HypertText
-    - Textos puros, livros, revistas, jornais;
-    - Links: acessar outros documentos;
-    - Imagens, vídeos, áudios;
-- Markup
-    - Marcação
-    - Tags: <a> Link </a>
-    - Atributos: <a href="https://rocketseat.com.br">
-    - Globais: id, class, ...
-- Language
-    - Linguagem
-    - Sintaxe: maneira de escrever
+**nlw-agentNLW Agents - Esports com IA**
+Acesse ao site aqui: https://jupereira25.github.io/nlw-agents/
 
-# HTTP
-- HyperText
-- Transfer
-    - Transferência
-- Protocol
-    - Protocolo
-    - Conjunto de regras
-- Methods HTTP (verbos): Get, Post, Patch/Put, Delete
-- Headers (cabeçalhos): Instruções/Informações extras para cada chamada
-
-# URL
-- Uniform
-    - Uniforme
-- Resource
-    - Recurso
-- Locator
-    - Localizador
-Encontrar um recurso (html, css, js, pdf, jpg, mp4, mpr, ...)
-Endereço
-
-# IP
-- Internet
-  - Rede mundial de computadores
-- Protocol
-  - Conjunto de regras
-Endereço do computador
-rocketseat.com.br (domínio)
-123.32.1.23 (ip)
-
-# DNS
-- Domain
-  - Domínio
-- Name
-  - Nome
-- Server
-  - Servidor
-
-# CSS
-
-- Cascading
-  - Cascata
-  - Regras das escritas
-  - Hierarquia
-  - Especificidade
-- Style
-  - Estilo
-- Sheet
-  - Folha
-
-De um arquivo que terá na sua sintaxe, declarações, propriedades e valores.
-A partir disso, o HTML é impactado visualmente.
-
-- declaração
-- seletor
-- propriedade e valor
-
-# JS
-- Linguagem de programação
-- Browsers
-- Input -> Process -> Output
-- Variáveis
-- Function
-  - Agrupamento e reuso de código
-  - Sequencia lógica
-  - Saída
-- Gemini (IA): esperar uma resposta
-- Mexer no meu navegador
-- Estrutura de dados
-- Estrutura de decisão
-- Algoritmo: sequencia de passos lógica, de maneira ordenada, a fim de chegar a alguma conclusão (limitada)
-- Lógica (Pensamento computacional)
-  - Abstração
-  - Decomposição
-  - Algoritmo
-  - Reconhecimento de padrão
-- Tipos de dados
-  - Number (números)
-  - String (textos) (" ",  ' ',  ` `)
-  - Boolean: true | false
-  - Objects
-  - ...
-
-# DOM
-- Document
-- Object
-- Model
-
-# API
-- Application
-- Programming
-- Interface
-- JSON: JavaScript Object Notation
-
-# CDN
-- Content
-- Delivery
-- Network
-
-# LLM
-- Large
-- Language
-- Model
-- Gemini, OpenAI (chatGPT), Anthropic (Claude) ...
-
-# Agentes AI
-- Tools (ferramentas): permitem uso de código, ou apps, ou qualquer informação extra.
-- Melhor contexto
-
-# Engenharia de prompt
-- One shot: uma única pergunta sem muito contexto
-- Few shot: é apresentado exemplos do que se espera
-- Chain of Thought: Cadeia de pensamento para a IA responder gradativamente conforme a instrução.
-=======
-# nlw-agentNLW Agents - Esports com IA
-
-Assista ao vídeo no YouTube
-(Clique na imagem acima para assistir ao projeto em funcionamento no YouTube)
-
-Descrição
+**Descrição**
 
 Este projeto faz parte de uma maratona de 3 vídeos oferecida pela Rocketseat, chamada NLW Agents. Na trilha escolhida, Fullstack com IA, desenvolvi um esports com Gemini para gerar respostas inteligentes sobre jogos. Durante o projeto, foram aplicados conceitos de:
 
-Inteligência Artificial
-Agentes
-Engenharia de Prompt
-Tecnologias utilizadas
+-Inteligência Artificial
+- Agentes
+- Engenharia de Prompt
+- Tecnologias utilizadas
 
 Utilizei HTML, CSS e JavaScript, integrando a API Key do Gemini para as interações inteligentes com a IA, aprendendo na prática como construir uma aplicação fullstack com IA.
 
 ✅ Front-end:
 
-HTML
-CSS
-JavaScript
+-HTML
+-CSS
+-JavaScript
+
 ✅ Inteligência Artificial:
 
-Gemini API
-Prompt Engineering
-Conceitos de Agentes
->>>>>>> 69a8db29bef3f3e3fed4b1e7bbfbe6a1bca24e2b
+- Gemini API
+- Prompt Engineering
+- Conceitos de Agentes
+
