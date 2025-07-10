@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # HTML
 - HypertText
     - Textos puros, livros, revistas, jornais;
@@ -124,3 +125,31 @@ A partir disso, o HTML é impactado visualmente.
 - One shot: uma única pergunta sem muito contexto
 - Few shot: é apresentado exemplos do que se espera
 - Chain of Thought: Cadeia de pensamento para a IA responder gradativamente conforme a instrução.
+=======
+# nlw-agentNLW Agents - Esports com IA
+
+Assista ao vídeo no YouTube
+(Clique na imagem acima para assistir ao projeto em funcionamento no YouTube)
+
+Descrição
+
+Este projeto faz parte de uma maratona de 3 vídeos oferecida pela Rocketseat, chamada NLW Agents. Na trilha escolhida, Fullstack com IA, desenvolvi um esports com Gemini para gerar respostas inteligentes sobre jogos. Durante o projeto, foram aplicados conceitos de:
+
+Inteligência Artificial
+Agentes
+Engenharia de Prompt
+Tecnologias utilizadas
+
+Utilizei HTML, CSS e JavaScript, integrando a API Key do Gemini para as interações inteligentes com a IA, aprendendo na prática como construir uma aplicação fullstack com IA.
+
+✅ Front-end:
+
+HTML
+CSS
+JavaScript
+✅ Inteligência Artificial:
+
+Gemini API
+Prompt Engineering
+Conceitos de Agentes
+>>>>>>> 69a8db29bef3f3e3fed4b1e7bbfbe6a1bca24e2b
