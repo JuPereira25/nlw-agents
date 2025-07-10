@@ -1,4 +1,4 @@
-**nlw-agentNLW Agents - Esports com IA**
+**NLW Agents - Esports com IA**
 
 Acesse ao site aqui: https://jupereira25.github.io/nlw-agents/
 
